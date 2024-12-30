@@ -1,4 +1,4 @@
-# Bike Sharing Demand Prediction
+# Rapido Bike Sharing Demand Prediction
 
 This project aims to predict bike rental demand using machine learning models, enabling efficient inventory management and improved customer satisfaction for bike-sharing businesses.
 
